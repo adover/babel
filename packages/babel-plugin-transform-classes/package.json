@@ -16,7 +16,7 @@
     "@babel/helper-plugin-utils": "^7.0.0",
     "@babel/helper-replace-supers": "^7.3.4",
     "@babel/helper-split-export-declaration": "^7.0.0",
-    "globals": "^11.1.0"
+    "globals": "^13.5.0"
   },
   "keywords": [
     "babel-plugin"
